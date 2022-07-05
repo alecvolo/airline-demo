@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "sql": "Server=127.0.0.1;Database=flight;User Id=sa;Password=Pass123!"
+  }
+}
